@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.Laba4
+Exec=/usr/bin/ru.template.Laba4
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=
+OrganizationName=ru.template
+ApplicationName=Laba4
+ExecDBus=/usr/bin/ru.template.Laba4
